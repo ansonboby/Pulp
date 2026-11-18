@@ -4,7 +4,7 @@ set -e
 echo "🍊 Squeezing Pulp into your system..."
 
 # Define repo
-REPO="Baseplayer23893/Pulp"
+REPO="ansonboby/Pulp"
 
 # Detect OS and Arch
 OS=$(uname -s | tr '[:upper:]' '[:lower:]')

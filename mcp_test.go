@@ -8,7 +8,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/Baseplayer23893/Pulp/internal/defuddle"
+	"github.com/ansonboby/Pulp/internal/defuddle"
 )
 
 const mockDefuddleSource = `package main

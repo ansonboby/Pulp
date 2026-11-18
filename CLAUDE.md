@@ -14,7 +14,7 @@ No Makefile, linter config, or code generation exists. Tests use only the Go sta
 
 ## Architecture
 
-Pulp is a Go CLI that extracts clean markdown from web content for AI workflows. The module path is `github.com/Baseplayer23893/Pulp`.
+Pulp is a Go CLI that extracts clean markdown from web content for AI workflows. The module path is `github.com/ansonboby/Pulp`.
 
 **Entry points** (`main.go`):
 - `pulp` (no args) → launches TUI if stdout is interactive, else prints help

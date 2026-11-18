@@ -11,7 +11,7 @@ import (
 
 	tea "github.com/charmbracelet/bubbletea"
 
-	"github.com/Baseplayer23893/Pulp/internal/config"
+	"github.com/ansonboby/Pulp/internal/config"
 )
 
 func TestDetectSource(t *testing.T) {

@@ -9,10 +9,10 @@ import (
 	"strings"
 	"time"
 
-	"github.com/Baseplayer23893/Pulp/internal/cache"
-	"github.com/Baseplayer23893/Pulp/internal/cleaner"
-	"github.com/Baseplayer23893/Pulp/internal/storage"
-	"github.com/Baseplayer23893/Pulp/internal/urlutil"
+	"github.com/ansonboby/Pulp/internal/cache"
+	"github.com/ansonboby/Pulp/internal/cleaner"
+	"github.com/ansonboby/Pulp/internal/storage"
+	"github.com/ansonboby/Pulp/internal/urlutil"
 	"github.com/spf13/cobra"
 )
 

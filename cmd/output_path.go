@@ -5,8 +5,8 @@ import (
 	"path/filepath"
 	"strings"
 
-	"github.com/Baseplayer23893/Pulp/internal/config"
-	"github.com/Baseplayer23893/Pulp/internal/urlutil"
+	"github.com/ansonboby/Pulp/internal/config"
+	"github.com/ansonboby/Pulp/internal/urlutil"
 )
 
 const forceStdoutEnv = "PULP_FORCE_STDOUT"

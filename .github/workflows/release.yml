@@ -50,7 +50,7 @@ jobs:
           CGO_ENABLED: "0"
         run: |
           BINARY_NAME="pulp-${{ matrix.goos }}-${{ matrix.arch }}${{ matrix.ext }}"
-          go build -ldflags="-s -w -X github.com/Baseplayer23893/skillforge/cmd.version=${{ github.ref_name }}" \
+          go build -ldflags="-s -w -X github.com/ansonboby/Pulp/internal/version.Version=${{ github.ref_name }}" \
             -o "dist/${BINARY_NAME}" .
 
       - name: Upload artifact

@@ -13,7 +13,7 @@
 
 [![Go](https://img.shields.io/badge/Go-1.21+-00ADD8?style=flat&logo=go)](https://go.dev)
 [![License: MIT](https://img.shields.io/badge/License-MIT-orange.svg)](LICENSE)
-[![Stars](https://img.shields.io/github/stars/Baseplayer23893/Pulp?style=flat&color=orange)](https://github.com/Baseplayer23893/Pulp/stargazers)
+[![Stars](https://img.shields.io/github/stars/ansonboby/Pulp?style=flat&color=orange)](https://github.com/ansonboby/Pulp/stargazers)
 
 </div>
 
@@ -24,7 +24,7 @@ Pulp is a **free, open-source, local-first** alternative to createskills. Extrac
 No API keys. No monthly fees. No data leaving your machine.
 
 ```bash
-curl -sSL https://raw.githubusercontent.com/Baseplayer23893/Pulp/main/install.sh | bash
+curl -sSL https://raw.githubusercontent.com/ansonboby/Pulp/main/install.sh | bash
 ```
 
 ---
@@ -59,12 +59,12 @@ curl -sSL https://raw.githubusercontent.com/Baseplayer23893/Pulp/main/install.sh
 
 **One-line install (Linux/macOS):**
 ```bash
-curl -sSL https://raw.githubusercontent.com/Baseplayer23893/Pulp/main/install.sh | bash
+curl -sSL https://raw.githubusercontent.com/ansonboby/Pulp/main/install.sh | bash
 ```
 
 **Build from source:**
 ```bash
-git clone https://github.com/Baseplayer23893/Pulp
+git clone https://github.com/ansonboby/Pulp
 cd Pulp
 go build -o pulp ./main.go
 sudo mv pulp /usr/local/bin/
@@ -211,5 +211,5 @@ MIT — free forever, do whatever you want with it.
 ---
 
 <div align="center">
-built with 🍊 by <a href="https://github.com/Baseplayer23893">Baseplayer23893</a>
+built with 🍊 by <a href="https://github.com/ansonboby">Anson Boby</a>
 </div>

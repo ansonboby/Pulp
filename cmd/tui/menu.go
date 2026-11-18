@@ -18,8 +18,8 @@ import (
 	tea "github.com/charmbracelet/bubbletea"
 	"github.com/charmbracelet/lipgloss"
 
-	"github.com/Baseplayer23893/Pulp/internal/config"
-	"github.com/Baseplayer23893/Pulp/internal/urlutil"
+	"github.com/ansonboby/Pulp/internal/config"
+	"github.com/ansonboby/Pulp/internal/urlutil"
 )
 
 var (

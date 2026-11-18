@@ -10,8 +10,8 @@ import (
 	"strings"
 	"time"
 
-	"github.com/Baseplayer23893/Pulp/internal/config"
-	"github.com/Baseplayer23893/Pulp/internal/version"
+	"github.com/ansonboby/Pulp/internal/config"
+	"github.com/ansonboby/Pulp/internal/version"
 	"github.com/spf13/cobra"
 )
 

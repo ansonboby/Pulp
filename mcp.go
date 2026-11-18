@@ -8,10 +8,10 @@ import (
 	"strings"
 	"time"
 
-	"github.com/Baseplayer23893/Pulp/internal/cleaner"
-	"github.com/Baseplayer23893/Pulp/internal/defuddle"
-	"github.com/Baseplayer23893/Pulp/internal/urlutil"
-	"github.com/Baseplayer23893/Pulp/internal/version"
+	"github.com/ansonboby/Pulp/internal/cleaner"
+	"github.com/ansonboby/Pulp/internal/defuddle"
+	"github.com/ansonboby/Pulp/internal/urlutil"
+	"github.com/ansonboby/Pulp/internal/version"
 )
 
 // ---------------------------------------------------------------------------

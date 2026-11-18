@@ -4,7 +4,7 @@ import (
 	"path/filepath"
 	"testing"
 
-	"github.com/Baseplayer23893/Pulp/internal/config"
+	"github.com/ansonboby/Pulp/internal/config"
 )
 
 func TestResolveOutputPathUsesConfigOutputDir(t *testing.T) {
